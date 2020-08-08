@@ -1,1 +1,2 @@
-# k_
+# Keltner Channel Based HFT Strategy
+
