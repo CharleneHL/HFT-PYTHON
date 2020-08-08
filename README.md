@@ -1,5 +1,9 @@
-# HFT Strategies
+# HFT STRAT. ROADMAP
 
-Part 1: Jump Diffusions
+1. Keltner Channel Scalper
 
-Part 2: Keltner Channel Scalper
+2. Jump Diffusions
+
+3. Mixed Copula
+
+4. VPIN 
