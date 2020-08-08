@@ -1,5 +1,5 @@
 # Keltner Channel Based HFT Strategy
 
-Part 1: trading algorithm in live environment 
+Part 1: Trading algo (on crypto perpetual futures)
 
-Part 2: Backtester (crypto perpetual futures & ASX200)
+Part 2: Backtester (on crypto perpetual futures & ASX200)
