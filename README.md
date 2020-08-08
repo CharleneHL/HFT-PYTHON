@@ -2,10 +2,10 @@
 
 1. Keltner Channel Scalper
 
-2. Jump Diffusions
+2. Jump Diffusions (pairs trading)
 
-3. Mixed Copula
+3. Mixed Copula (pairs trading)
 
-4. VPIN 
+4. VPIN (scalping & pairs trading)
 
-5. Garch Model
+5. Garch Model (scalping & pairs trading)
