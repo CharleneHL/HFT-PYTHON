@@ -7,3 +7,5 @@
 3. Mixed Copula
 
 4. VPIN 
+
+5. Garch Model
